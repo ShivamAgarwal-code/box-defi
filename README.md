@@ -32,7 +32,7 @@ The burnt FRUIT tokens ensure that the underlying SEED cannot be retrieved, thus
 
 ## Relevent Links
 
-- Demo Video: https://youtu.be/zPnL_2UDKtc
+- Demo Video: https://vimeo.com/735877985
 - Website: https://box-defi.vercel.app
 
 ## Deployed Contracts
